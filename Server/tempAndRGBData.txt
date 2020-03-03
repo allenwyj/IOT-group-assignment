@@ -1,0 +1,404 @@
+Sensor 1 TimeStamp: 2019-10-01 22:46:03
+Red: 1336 Green: 848 Blue: 578
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:46:07
+Red: 1336 Green: 848 Blue: 578
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:46:10
+Red: 1336 Green: 848 Blue: 578
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:47:01
+Red: 1339 Green: 850 Blue: 580
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:47:05
+Red: 1338 Green: 850 Blue: 580
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:47:10
+Red: 1339 Green: 850 Blue: 580
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:47:13
+Red: 1338 Green: 850 Blue: 580
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:49:54
+Red: 1338 Green: 849 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:49:58
+Red: 1338 Green: 849 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:50:02
+Red: 1338 Green: 849 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:50:07
+Red: 1338 Green: 850 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:50:10
+Red: 1338 Green: 850 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:50:14
+Red: 1338 Green: 849 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:50:19
+Red: 1338 Green: 850 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:50:22
+Red: 1338 Green: 849 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:03
+Red: 1338 Green: 850 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:07
+Red: 1337 Green: 848 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:11
+Red: 1337 Green: 849 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:14
+Red: 1337 Green: 849 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:18
+Red: 1337 Green: 849 Blue: 579
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:22
+Red: 1335 Green: 847 Blue: 578
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:25
+Red: 1332 Green: 845 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:29
+Red: 1331 Green: 843 Blue: 575
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:33
+Red: 1332 Green: 844 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:37
+Red: 1331 Green: 844 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:40
+Red: 1330 Green: 843 Blue: 575
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:44
+Red: 1332 Green: 845 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:48
+Red: 1332 Green: 845 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:52
+Red: 1331 Green: 844 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:56
+Red: 1332 Green: 845 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:51:59
+Red: 1332 Green: 845 Blue: 577
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:52:03
+Red: 1331 Green: 844 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:55:59
+Red: 1332 Green: 844 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:58:38
+Red: 1334 Green: 846 Blue: 577
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:58:42
+Red: 1333 Green: 845 Blue: 577
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:58:46
+Red: 1330 Green: 842 Blue: 575
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:58:50
+Red: 1334 Green: 846 Blue: 577
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:58:53
+Red: 1335 Green: 847 Blue: 578
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:58:58
+Red: 1334 Green: 846 Blue: 577
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:01
+Red: 1331 Green: 843 Blue: 575
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:05
+Red: 1334 Green: 847 Blue: 578
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:08
+Red: 1335 Green: 848 Blue: 578
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:12
+Red: 1335 Green: 847 Blue: 578
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:16
+Red: 1333 Green: 844 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:19
+Red: 1332 Green: 843 Blue: 576
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:23
+Red: 1331 Green: 843 Blue: 575
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:27
+Red: 1331 Green: 843 Blue: 575
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:30
+Red: 1330 Green: 842 Blue: 574
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:34
+Red: 1330 Green: 841 Blue: 574
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:38
+Red: 1329 Green: 840 Blue: 573
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:42
+Red: 1326 Green: 839 Blue: 573
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:45
+Red: 5327 Green: 9407 Blue: 9388
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:50
+Red: 8063 Green: 15721 Blue: 15833
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 22:59:53
+Red: 8078 Green: 15738 Blue: 15850
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:14
+Red: 8233 Green: 16048 Blue: 16168
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:17
+Red: 8242 Green: 16059 Blue: 16179
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:22
+Red: 8278 Green: 16132 Blue: 16253
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:25
+Red: 8278 Green: 16130 Blue: 16252
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:29
+Red: 8277 Green: 16128 Blue: 16251
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:33
+Red: 8275 Green: 16124 Blue: 16247
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:36
+Red: 8273 Green: 16120 Blue: 16243
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:40
+Red: 1329 Green: 840 Blue: 573
+Temperature: 22.6 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:44
+Red: 742 Green: 434 Blue: 304
+Temperature: 22.6 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:48
+Red: 1644 Green: 3773 Blue: 6866
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:52
+Red: 2140 Green: 3765 Blue: 6670
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:55
+Red: 2141 Green: 3768 Blue: 6674
+Temperature: 22.6 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:00:59
+Red: 2140 Green: 3765 Blue: 6669
+Temperature: 22.6 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:01:03
+Red: 1223 Green: 2885 Blue: 5536
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:01:07
+Red: 1321 Green: 835 Blue: 570
+Temperature: 22.6 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:01:10
+Red: 1322 Green: 837 Blue: 571
+Temperature: 22.6 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:01:15
+Red: 1319 Green: 834 Blue: 569
+Temperature: 22.6 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:01:18
+Red: 1316 Green: 829 Blue: 566
+Temperature: 22.6 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:01:22
+Red: 1316 Green: 830 Blue: 566
+Temperature: 22.6 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:01:26
+Red: 1319 Green: 832 Blue: 568
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:01:30
+Red: 1320 Green: 833 Blue: 569
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:05:55
+Red: 1319 Green: 833 Blue: 568
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:05:59
+Red: 1321 Green: 834 Blue: 569
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:06:03
+Red: 1320 Green: 833 Blue: 569
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:06:06
+Red: 1320 Green: 834 Blue: 569
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:06:10
+Red: 1320 Green: 833 Blue: 569
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:07:52
+Red: 1320 Green: 833 Blue: 569
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:07:56
+Red: 1320 Green: 833 Blue: 568
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:08:01
+Red: 1320 Green: 833 Blue: 569
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:08:05
+Red: 1320 Green: 833 Blue: 569
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:08:08
+Red: 1320 Green: 833 Blue: 568
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:08:12
+Red: 1320 Green: 833 Blue: 569
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:08:15
+Red: 1320 Green: 832 Blue: 568
+Temperature: 22.5 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:13:22
+Red: 1316 Green: 829 Blue: 566
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:13:27
+Red: 1316 Green: 830 Blue: 567
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:13:32
+Red: 1318 Green: 831 Blue: 568
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:13:36
+Red: 1316 Green: 830 Blue: 567
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:13:41
+Red: 1316 Green: 830 Blue: 567
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:13:45
+Red: 1316 Green: 830 Blue: 567
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:13:50
+Red: 1317 Green: 831 Blue: 567
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:13:53
+Red: 1318 Green: 832 Blue: 568
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:15:59
+Red: 1321 Green: 834 Blue: 569
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:16:10
+Red: 1318 Green: 831 Blue: 567
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:16:20
+Red: 1319 Green: 832 Blue: 568
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:16:32
+Red: 1320 Green: 833 Blue: 569
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:16:43
+Red: 1318 Green: 832 Blue: 568
+Temperature: 22.4 C Pressure: 262.0 kpa 
+
+Sensor 1 TimeStamp: 2019-10-01 23:16:54
+Red: 1319 Green: 833 Blue: 569
+Temperature: 22.4 C Pressure: 262.0 kpa 
+

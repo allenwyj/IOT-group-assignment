@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>659153165217-sm33212dqr4koc2nsj9mknn2cs8bmphu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.659153165217-sm33212dqr4koc2nsj9mknn2cs8bmphu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBippVkMPjyhE1Qb8ohLJw-JyKrGecoclA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>659153165217</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.monash.sa-assignment2</string>
+	<key>PROJECT_ID</key>
+	<string>fit5140-week09-7ba90</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fit5140-week09-7ba90.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:659153165217:ios:627f5a65f0c75922f549e0</string>
+	<key>DATABASE_URL</key>
+	<string>https://fit5140-week09-7ba90.firebaseio.com</string>
+</dict>
+</plist>
